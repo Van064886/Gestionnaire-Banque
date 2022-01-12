@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1616901431 source:/home/van/Documents/COMPUTER SCIENCE/Programmation/Pratiques/Langage c/TP_Banque_DE/main.c
+	"fonctions_banque.h"
+
+1616731908 /home/van/Documents/COMPUTER SCIENCE/Programmation/Pratiques/Langage c/TP_Banque_DE/fonctions_banque.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"fonctions_banque.h"
+
+1616901420 source:/home/van/Documents/COMPUTER SCIENCE/Programmation/Pratiques/Langage c/TP_Banque_DE/fonctions_banque.c
+	"fonctions_banque.h"
+
